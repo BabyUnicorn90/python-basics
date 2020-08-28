@@ -48,7 +48,6 @@ print(results)
 [n for n in rage(1, 101)]
 
 results = [number for number in range(D, 101)] if str(number).count()in range((1' 10'))
-klkll
 
 
 

@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfab3b0f-aad3-4695-8db0-3c9850ef0cfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02/16.range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/17.enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/18.zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/19.comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/03.while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/prob06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/prob07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/prob08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/prob09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01/prob10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice02/prob01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice02/prob02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice02/prob03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice02/prob04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice02/prob05-later.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/19.comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/19.comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/01.condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/04/01.condition.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,75 +26,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/13.tuple.py">
+        <entry file="file://$PROJECT_DIR$/practice01/prob06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="46">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/14.unpacking.py">
+        <entry file="file://$PROJECT_DIR$/practice01/prob07.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state>
+              <caret column="57" selection-start-column="57" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/11.arg.py">
+        <entry file="file://$PROJECT_DIR$/practice01/prob08.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/15.dict.py">
+        <entry file="file://$PROJECT_DIR$/practice01/prob09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/16.range.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/17.enumerate.py">
+        <entry file="file://$PROJECT_DIR$/practice01/prob10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/18.zip.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02/19.comprehension.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/practice02/prob01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice02/prob02.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice02/prob03.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice02/prob04.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice02/prob05-later.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -117,7 +124,6 @@
         <option value="$PROJECT_DIR$/02/07.operator_logical.py" />
         <option value="$PROJECT_DIR$/02/08_operator_bitwise.py" />
         <option value="$PROJECT_DIR$/docs/연산자 우선순위" />
-        <option value="$PROJECT_DIR$/04/01.condition.py" />
         <option value="$PROJECT_DIR$/practice01/prob04.py" />
         <option value="$PROJECT_DIR$/practice01/prob05.py" />
         <option value="$PROJECT_DIR$/practice01/prob03.py" />
@@ -139,15 +145,30 @@
         <option value="$PROJECT_DIR$/02/17.enumerate.py" />
         <option value="$PROJECT_DIR$/02/18.zip.py" />
         <option value="$PROJECT_DIR$/02/19.comprehension.py" />
+        <option value="$PROJECT_DIR$/04/01.condition.py" />
+        <option value="$PROJECT_DIR$/04/03.while.py" />
+        <option value="$PROJECT_DIR$/practice01/prob06.py" />
+        <option value="$PROJECT_DIR$/practice01/prob07.py" />
+        <option value="$PROJECT_DIR$/practice01/prob08.py" />
+        <option value="$PROJECT_DIR$/practice01/prob09.py" />
+        <option value="$PROJECT_DIR$/practice01/prob10.py" />
+        <option value="$PROJECT_DIR$/practice02/prob01.py" />
+        <option value="$PROJECT_DIR$/practice02/prob02.py" />
+        <option value="$PROJECT_DIR$/practice02/prob03.py" />
+        <option value="$PROJECT_DIR$/practice02/prob04.py" />
+        <option value="$PROJECT_DIR$/practice02/prob05.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="954" />
-    <option name="width" value="974" />
+    <option name="x" value="952" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -173,7 +194,17 @@
             <path>
               <item name="python-basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-basics" type="462c0819:PsiDirectoryNode" />
               <item name="practice01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="practice02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-basics" type="b2602c69:ProjectViewProjectNode" />
@@ -210,8 +241,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19.comprehension">
-    <configuration name="11.arg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.03.while">
+    <configuration name="01.condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/11.arg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/01.condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14.unpacking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03.while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/14.unpacking.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/03.while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03.while" />
+        <item itemvalue="Python.01.condition" />
         <item itemvalue="Python.19.comprehension" />
         <item itemvalue="Python.18.zip" />
         <item itemvalue="Python.15.dict" />
-        <item itemvalue="Python.11.arg" />
-        <item itemvalue="Python.14.unpacking" />
       </list>
     </recent_temporary>
   </component>
@@ -349,60 +380,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="954" y="0" width="974" height="1056" extended-state="0" />
+    <frame x="952" y="-8" width="976" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31944445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31876332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.32321042" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3275488" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106835" side_tool="true" weight="0.32321042" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17307693" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32321042" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" visible="true" weight="0.32321042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3275488" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106835" side_tool="true" weight="0.32321042" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/read.md" />
-    <entry file="file://$PROJECT_DIR$/01/hello.py" />
-    <entry file="file://$PROJECT_DIR$/01/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/01/README.md" />
-    <entry file="file://$PROJECT_DIR$/../../자습/강사님자료/sql연습/basic-sql-practice.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../자습/강사님자료/sql연습/employees.mwb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../자습/강사님자료/sql연습/employees.mwb.bak">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../자습/강사님자료/sql연습/join연습.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -504,13 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/01.condition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -619,6 +612,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02/19.comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/01.condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02/16.range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -640,12 +647,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02/19.comprehension.py">
+    <entry file="file://$PROJECT_DIR$/04/03.while.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="436">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice01/prob06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice01/prob07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice01/prob08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice01/prob09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice01/prob10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice02/prob02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice02/prob03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice02/prob04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice02/prob05-later.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice02/prob01.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

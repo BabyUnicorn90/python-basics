@@ -8,6 +8,8 @@ else:
     print('small')
 
 
+print('big' if a > 5 else 'small')
+
 # if ~ elif ~ else
 n = -10
 if n > 0:
