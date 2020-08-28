@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfab3b0f-aad3-4695-8db0-3c9850ef0cfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01/helloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01/valuable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/01.bull.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/02.complex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/03.float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04.int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/05.operator_arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/06.operator_relation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/07.operator_logical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/08.operator_bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/09.str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/10.list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/11.arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/12.set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/13.tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/14.unpacking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/15.dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/01.condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/02.for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/연산자 우선순위" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice01/prob01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice01/prob02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice01/prob03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice01/prob04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice01/prob05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/16.range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/17.enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/18.zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/19.comprehension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/read.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +43,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02/15.dict.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="409">
               <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02/16.range.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02/17.enumerate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02/18.zip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02/19.comprehension.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -125,6 +135,10 @@
         <option value="$PROJECT_DIR$/02/11.arg.py" />
         <option value="$PROJECT_DIR$/02/15.dict..py" />
         <option value="$PROJECT_DIR$/02/15.dict.py" />
+        <option value="$PROJECT_DIR$/02/16.range.py" />
+        <option value="$PROJECT_DIR$/02/17.enumerate.py" />
+        <option value="$PROJECT_DIR$/02/18.zip.py" />
+        <option value="$PROJECT_DIR$/02/19.comprehension.py" />
       </list>
     </option>
   </component>
@@ -196,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15.dict">
+  <component name="RunManager" selected="Python.19.comprehension">
     <configuration name="11.arg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,48 +224,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/11.arg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12.set" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/12.set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13.tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/13.tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,13 +274,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="18.zip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/18.zip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19.comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/19.comprehension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19.comprehension" />
+        <item itemvalue="Python.18.zip" />
         <item itemvalue="Python.15.dict" />
         <item itemvalue="Python.11.arg" />
         <item itemvalue="Python.14.unpacking" />
-        <item itemvalue="Python.13.tuple" />
-        <item itemvalue="Python.12.set" />
       </list>
     </recent_temporary>
   </component>
@@ -336,19 +350,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="954" y="0" width="974" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17307693" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31944445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.32321042" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49893162" visible="true" weight="0.32321042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3275488" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106835" side_tool="true" weight="0.32321042" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -602,6 +617,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/16.range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/17.enumerate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/18.zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/19.comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
         </state>
       </provider>
     </entry>
