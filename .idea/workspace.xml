@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfab3b0f-aad3-4695-8db0-3c9850ef0cfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/helloworld.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01/valuable.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02/01.bull.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02/02.complex.py" afterDir="false" />
@@ -27,8 +29,8 @@
       <change afterPath="$PROJECT_DIR$/practice01/prob04.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice01/prob05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01/assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/01/helloworld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/01/hello.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/read.md" beforeDir="false" />
     </list>
