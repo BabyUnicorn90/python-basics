@@ -47,6 +47,10 @@ x = y // 1
 y = y % 1
 b.append(x)
 
+i = a
+j = b
 
-print(b)
+
+print("'d'원: " + format(i, 'd') + "'d'개" + format(j, 'd'))
+
 

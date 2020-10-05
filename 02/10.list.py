@@ -2,8 +2,9 @@
 l1 = []
 l2 = [1, True, 'python', 3.14]
 
+print('===sequence 타입의 특징===')
 # 인덱싱(sequence 타입의 특징)
-print(l2[0], l2[1], l2[3], l2[4])
+print(l2[0], l2[1], l2[2], l2[3])
 print(l2[-4], l2[-3], l2[-2], l2[-1])
 
 # slicing
@@ -20,29 +21,34 @@ print(l2[len(l2)::-1])
 
 
 # 반복(sequence 타입의 특징)
-ㅣ4 = ㅣ2 + [1,2,3]
+l3 = l2 * 2
+print('리스트 반복: ', l3)
 
+#연결(sequence 타입의 특징)
+l4 = l2 + [1, 2, 3]
+print('리스트 연결: ', l4)
 
 # 길이 (sequence 타입의 특징)
-print(len(l4))
+print('리스트 길이확인: ', len(l4))
 
 # in, not in (sequence 타입의 특징)
-print(5 not in l4)
-print('python' in l4)
+print('요소 포함여부 확인: ', 5 not in l4)
+print('요소 포함여부 확인2: ', 'python' in l4)
 
 # 삭제 (변경 가능한 객체)
 del l4[2]
-print(l4)
+print('삭제 후 확인: ', l4)
 
 # 변경가능한 객체
 l5 = ['apple', 'banana', 10, 20]
-print(l5)
+print('l5 원본: ', l5)
 l5[2] = l5[2] + 90
-print(l5)
+print('l5 변경 후: ', l5)
 
+
+print('<<<<<<<<<<<<<<slicing 기법>>>>>>>>>>>>>>>>>>>')
 # slicing을 이용한 삭제
-l6 = [1, 12, 123,1234]
-l6[1:2] = []
+l6 = [1, 12, 123, 1234]
 print(l6)
 
 l6[0:] = []
