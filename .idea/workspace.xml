@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfab3b0f-aad3-4695-8db0-3c9850ef0cfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03/01.symbol_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/03.object_id.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01.function_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/02.callby.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/03.scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/04.argument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/01.print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/02.input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/03.fileio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/04.fileio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/05.pickle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/06.datetime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06/copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/07.exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/class_def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/paint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/point.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/10.list.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/10.list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/16.range.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/16.range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/17.enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/17.enumerate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice01/prob06.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice01/prob06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice01/prob07.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice01/prob07.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06/05.pickle.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop/point.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+            <state relative-caret-position="1442">
+              <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06/06.datetime.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/paint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="-26">
+              <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -63,12 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02/06.operator_relation.py" />
-        <option value="$PROJECT_DIR$/02/02.bull.py" />
-        <option value="$PROJECT_DIR$/02/07.operator_logical.py" />
-        <option value="$PROJECT_DIR$/02/08_operator_bitwise.py" />
-        <option value="$PROJECT_DIR$/docs/연산자 우선순위" />
-        <option value="$PROJECT_DIR$/practice01/prob04.py" />
         <option value="$PROJECT_DIR$/practice01/prob05.py" />
         <option value="$PROJECT_DIR$/practice01/prob03.py" />
         <option value="$PROJECT_DIR$/practice01/prob01.py" />
@@ -114,14 +94,19 @@
         <option value="$PROJECT_DIR$/06/copy.py" />
         <option value="$PROJECT_DIR$/06/05.pickle.py" />
         <option value="$PROJECT_DIR$/06/06.datetime.py" />
+        <option value="$PROJECT_DIR$/06/07.exception.py" />
+        <option value="$PROJECT_DIR$/07/class_def.py" />
+        <option value="$PROJECT_DIR$/07/point.py" />
+        <option value="$PROJECT_DIR$/07/paint.py" />
+        <option value="$PROJECT_DIR$/oop/point.py" />
+        <option value="$PROJECT_DIR$/oop/paint.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="555" />
-    <option name="y" value="101" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="638" />
+    <option name="width" value="1290" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -141,7 +126,7 @@
             <path>
               <item name="python-basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="06" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,8 +152,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06.datetime">
-    <configuration name="05.pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.paint (1)">
+    <configuration name="07.exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06/05.pickle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06/07.exception.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06.datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class_def" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06/06.datetime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07/class_def.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16.range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="paint (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/16.range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/paint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17.enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="paint" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/17.enumerate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07/paint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prob07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="point" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice01/prob07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/point.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06.datetime" />
-        <item itemvalue="Python.05.pickle" />
-        <item itemvalue="Python.17.enumerate" />
-        <item itemvalue="Python.16.range" />
-        <item itemvalue="Python.prob07" />
+        <item itemvalue="Python.paint (1)" />
+        <item itemvalue="Python.point" />
+        <item itemvalue="Python.paint" />
+        <item itemvalue="Python.class_def" />
+        <item itemvalue="Python.07.exception" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598605545022</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10/05 오전수업">
+      <created>1601866178514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601866178514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -321,10 +313,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="638" y="0" width="1290" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17124736" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.030497592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -364,37 +356,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renewal" />
-    <option name="LAST_COMMIT_MESSAGE" value="renewal" />
+    <MESSAGE value="10/05 오전수업" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/05 오전수업" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1220">
-          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/valuable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/01.bull.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02/02.complex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -701,6 +666,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/07.exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/class_def.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/paint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/point.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1442">
+          <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
         </state>
       </provider>
     </entry>
